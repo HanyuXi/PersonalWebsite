@@ -63,33 +63,28 @@ export default class Header extends Component {
               <hr />
               <ul className="social">
                 <li>
-                  <a href="https://www.facebook.com/profile.php?id=100006435178367">
-                    <i className="fa fa-facebook" />
-                  </a>
-                </li>
-                <li>
                   <a href="https://github.com/HanyuXi">
-                    <i className="fa fa-github" />
+                    <i className="fab fa-github" />
                   </a>
                 </li>
                 <li>
                   <a href="https://devpost.com/laoxi02/challenges">
-                    <i className="fa fa-dropbox" />
+                    <i className="fab fa-dev" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/in/hanyuxi/">
-                    <i className="fa fa-linkedin" />
+                    <i className="fab fa-linkedin" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.instagram.com/laoxi02/">
-                    <i className="fa fa-instagram" />
+                    <i className="fab fa-instagram" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.youtube.com/channel/UCtjlb_H02gsCf2zKxlCJBrQ">
-                    <i className="fa fa-youtube-square" />
+                    <i className="fab fa-youtube-square" />
                   </a>
                 </li>
               </ul>
