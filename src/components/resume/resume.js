@@ -127,7 +127,7 @@ export default class Resume extends Component {
                       src="images/skills/jenkin.jpg"
                       alt
                     />
-                    <h1>Jenkin</h1>
+                    <h1>Jenkins</h1>
                   </div>
                 </div>
 
@@ -138,7 +138,7 @@ export default class Resume extends Component {
                       src="images/skills/linux.jpg"
                       alt
                     />
-                    <h1>Linux/Bash script</h1>
+                    <h1>Linux</h1>
                   </div>
                   <div className="three columns header-col">
                     <img
