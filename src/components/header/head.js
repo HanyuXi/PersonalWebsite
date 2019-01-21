@@ -48,18 +48,8 @@ export default class Header extends Component {
           {/* end #nav-wrap */}
           <div className="row banner">
             <div className="banner-text">
-              <h1 className="responsive-headline">I'm Hanyu Xi.</h1>
-              {/* <h3>
-                <span>Mechatronics Systems Engineering</span> student at{" "}
-                <span>Western University</span> <br />
-                Specialized in <span>Python</span>, <span>Linux</span>,{" "}
-                <span>ReactJS</span>, <span>C++</span>, <span>Qt</span>,{" "}
-                <span>Unittesting</span> <br />
-                Former Engineering Intern at{" "}
-                <a href="https://www.trudellmed.com/">
-                  <span>Trudell Medical International Company </span>
-                </a>
-             </h3> */}
+              <h1 className="responsive-headline">Hi there, I'm Hanyu Xi.</h1>
+             
               <hr />
               <ul className="social">
                 <li>
