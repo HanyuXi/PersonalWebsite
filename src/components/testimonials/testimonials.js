@@ -33,7 +33,7 @@ export default class Testimonials extends Component {
                       <li>
                         <blockquote>
                           <p>
-                            You are the greatest human being on this planet.
+                            Hanyu is a heart driven, goal oriented software developer. 
                           </p>
                           <cite>Seran Thirugnanam</cite>
                         </blockquote>
