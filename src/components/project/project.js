@@ -311,6 +311,10 @@ export default class Project extends Component {
                     Arduino/C++
                   </span>
                 </div>
+    <div className="link-box">
+              
+                  <a className="popup-modal-dismiss">Close</a>
+                </div>
               </div>
               {/* modal-06 End */}
               <div id="modal-07" className="popup-modal mfp-hide">
@@ -365,6 +369,10 @@ export default class Project extends Component {
                     <i className="fa fa-tag" />
                     Embedded Design, Linux
                   </span>
+                </div>
+    <div className="link-box">
+              
+                  <a className="popup-modal-dismiss">Close</a>
                 </div>
               </div>
               {/* modal-01 End */}
