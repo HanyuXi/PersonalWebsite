@@ -12,8 +12,31 @@ export default class Resume extends Component {
                 <h1>
                   <span>Education</span>
                 </h1>
+                <img className="profile-pic" src="images/uoft.jpg" alt />
+              </div>
+              <div className="nine columns main-col">
+                <div className="row item">
+                  <div className="twelve columns">
+                    <h3>University of Toronto</h3>
+                    <p className="info">
+                      M.Eng. Computer Engineering <span>•</span>{" "}
+                      <em className="date">In progress - April 2021</em>
+                    </p>
+                    <p>
+                      Part time student
+                    </p>
+                  </div>
+                </div>{" "}
+              </div>{" "}
+              </div>{" "}
+              <div className="row education">
+              <div className="three columns header-col ">
+                <h1>
+                  <span>Education</span>
+                </h1>
                 <img className="profile-pic" src="images/university.jpg" alt />
               </div>
+              
               <div className="nine columns main-col">
                 <div className="row item">
                   <div className="twelve columns">
@@ -42,6 +65,36 @@ export default class Resume extends Component {
             {/* End Education */}
             {/* Work
          ----------------------------------------------- */}
+         <div className="row work">
+              <div className="three columns header-col">
+                <h1>
+                  <span>Work</span>
+                </h1>
+                <img className="profile-pic" src="images/scotiabank.jpg" alt />
+              </div>
+              <div className="nine columns main-col">
+                <div className="row item">
+                  <div className="twelve columns">
+                    <h3>Scotiabank</h3>
+                    <p className="info">
+                      Programmer Analyst <span>•</span>{" "}
+                      <em className="date">June 2019 - Present</em>
+                    </p>
+                    <p>
+                      As a programmer analyst at Scotiabank Global Risk Technology department,
+                      my main duties include implementing code enhancement of existing risk data processing application 
+                      to ensure that the client’s updated requirements are met. I'm also a technical lead in a web application project
+                      that enables clients to streamline and modify bank’s counterparty risk data 
+                      using Vue.js, Django, Kafka, and Docker. Apart from application development work, I have also assisted in migrating internal risk data calculation software applications 
+                      from on-premise servers to Google Cloud Platform.
+                    </p>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+                {/* item end */}
+              </div>{" "}
+              {/* main-col end */}
+            </div>{" "}
             <div className="row work">
               <div className="three columns header-col">
                 <h1>
@@ -116,10 +169,10 @@ export default class Resume extends Component {
                   <div className="three columns header-col">
                     <img
                       className="skill-pic"
-                      src="images/skills/html.jpg"
+                      src="images/skills/vue.jpg"
                       alt
                     />
-                    <h1>HTML5/CSS3</h1>
+                    <h1>Vue.js</h1>
                   </div>
                   <div className="three columns header-col">
                     <img
@@ -143,10 +196,10 @@ export default class Resume extends Component {
                   <div className="three columns header-col">
                     <img
                       className="skill-pic"
-                      src="images/skills/matlab.jpg"
+                      src="images/skills/gcp.jpg"
                       alt
                     />
-                    <h1>Matlab</h1>
+                    <h1>Google cloud</h1>
                   </div>
                   <div className="three columns header-col">
                     <img
@@ -157,8 +210,8 @@ export default class Resume extends Component {
                     <h1>ReactJs</h1>
                   </div>
                   <div className="three columns header-col">
-                    <img className="skill-pic" src="images/skills/d3.jpg" alt />
-                    <h1>D3Js</h1>
+                    <img className="skill-pic" src="images/skills/java.jpg" alt />
+                    <h1>Java</h1>
                   </div>
                 </div>
                 {/* end skill-bars */}
