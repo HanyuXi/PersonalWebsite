@@ -20,10 +20,11 @@ export default class Resume extends Component {
                     <h3>University of Toronto</h3>
                     <p className="info">
                       M.Eng. Computer Engineering <span>•</span>{" "}
-                      <em className="date">In progress - April 2021</em>
+                      <em className="date">In progress - December 2021</em>
                     </p>
                     <p>
-                      Part time student
+                      As a part time student, I'm currently pursuing my Master of Computer Engineering Degree. Relevant Coursework: Advanced Algorithms, 
+                      Cloud Computing (AWS, Flask, Serverless Computing, DynamoDB/MySQL), Machine Learning, Web Scale Applications.
                     </p>
                   </div>
                 </div>{" "}
@@ -191,15 +192,15 @@ export default class Resume extends Component {
                       src="images/skills/linux.jpg"
                       alt
                     />
-                    <h1>Linux</h1>
+                    <h1>Bash</h1>
                   </div>
                   <div className="three columns header-col">
                     <img
                       className="skill-pic"
-                      src="images/skills/gcp.jpg"
+                      src="images/skills/aws.jpg"
                       alt
                     />
-                    <h1>Google cloud</h1>
+                    <h1>Cloud Computing</h1>
                   </div>
                   <div className="three columns header-col">
                     <img
