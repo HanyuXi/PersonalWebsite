@@ -108,7 +108,7 @@ export default class Resume extends Component {
                   <div className="twelve columns">
                     <h3>Trudell Medical International Company</h3>
                     <p className="info">
-                      Mechatronics Engineering Intern <span>•</span>{" "}
+                      Software Engineering Intern <span>•</span>{" "}
                       <em className="date">May 2017 - September 2018</em>
                     </p>
                     <p>
