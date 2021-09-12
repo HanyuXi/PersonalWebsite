@@ -24,7 +24,8 @@ export default class Resume extends Component {
                     </p>
                     <p>
                       As a part time student, I'm currently pursuing my Master of Computer Engineering Degree. Relevant Coursework: Advanced Algorithms, 
-                      Cloud Computing (AWS, Flask, Serverless Computing, DynamoDB/MySQL), Machine Learning, Web Scale Applications.
+                      Cloud Computing (AWS, Flask, Serverless Computing, DynamoDB/MySQL), Machine Learning, Web Scale Applications，Creative Mobile Applications,
+                      Big Data Science (Spark, Azure), Parallel Programming, Advanced Data Systems.
                     </p>
                   </div>
                 </div>{" "}
@@ -66,6 +67,59 @@ export default class Resume extends Component {
             {/* End Education */}
             {/* Work
          ----------------------------------------------- */}
+         <div className="row work">
+              <div className="three columns header-col">
+                <h1>
+                  <span>Work</span>
+                </h1>
+                <img className="profile-pic" src="images/Q4.png" alt />
+              </div>
+              <div className="nine columns main-col">
+                <div className="row item">
+                  <div className="twelve columns">
+                    <h3>Q4 Inc</h3>
+                    <p className="info">
+                      Data Engineer <span>•</span>{" "}
+                      <em className="date">July 2021 - Present</em>
+                    </p>
+                    <p>
+                      Re-designed and optimized company's data pipeline architecture.
+                      Tech stacks include Snowflake, SQL, AWS, Python, Streaming architecture, ETL
+                    </p>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+                {/* item end */}
+              </div>{" "}
+              {/* main-col end */}
+            </div>{" "}
+         <div className="row work">
+              <div className="three columns header-col">
+                <h1>
+                  <span>Work</span>
+                </h1>
+                <img className="profile-pic" src="images/ibm.jpg" alt />
+              </div>
+              <div className="nine columns main-col">
+                <div className="row item">
+                  <div className="twelve columns">
+                    <h3>Scotiabank</h3>
+                    <p className="info">
+                      Backend Developer <span>•</span>{" "}
+                      <em className="date">Jan 2021 - Jun 2021</em>
+                    </p>
+                    <p>
+                      My primary duties as a backend developer at IBM Data and AI department include fixing variety of defects and issues that help improve Db2 application
+                      availability and scalability, assisting in developing new features for Db2 v12 release.
+                  
+                    </p>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+                {/* item end */}
+              </div>{" "}
+              {/* main-col end */}
+            </div>{" "}
          <div className="row work">
               <div className="three columns header-col">
                 <h1>

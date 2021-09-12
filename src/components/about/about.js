@@ -12,8 +12,10 @@ export default class About extends Component {
               <div className="six columns main-col">
                 <h2>About Me</h2>
                 <p>
-                  I am a Programmer Analyst at Scotiabank and also a part time 
-                  Computer Engineering Master student at University of Toronto. My interests range from dev ops and design
+                  I am a Data Engineer at Q4 Inc and also a part time 
+                  Computer Engineering Master student at University of Toronto. 
+                  Previously, I worked at IBM as a backend developer and software developer at Scotiabank.
+                  My interests range from dev ops and design
                   to vlogging my travels and house music. Feel free to connect
                   with me if any of my skills and/or interests resonate with
                   you, or if you just want to geek out about the latest
